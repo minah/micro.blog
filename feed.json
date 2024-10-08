@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://iamhaus.micro.blog/2024/10/08/183501.html",
+				
+				"content_html": "<p>假期忙到晕，上班也忙到晕。</p>\n",
+				"content_text": "假期忙到晕，上班也忙到晕。\n",
+				"date_published": "2024-10-08T18:35:01+08:00",
+				"url": "https://iam.haus/2024/10/08/183501.html",
+				"tags": ["Message"]
+			},
+			{
+				"id": "http://iamhaus.micro.blog/2024/10/04/220828.html",
+				
+				"content_html": "<p>罗翔老师曾经说过：对于不可控的事情，我们要保持乐观；对于可控的事情，我们要保持谨慎。</p>\n",
+				"content_text": "罗翔老师曾经说过：对于不可控的事情，我们要保持乐观；对于可控的事情，我们要保持谨慎。\n",
+				"date_published": "2024-10-04T22:08:28+08:00",
+				"url": "https://iam.haus/2024/10/04/220828.html",
+				"tags": ["Message"]
+			},
+			{
 				"id": "http://iamhaus.micro.blog/2024/10/03/061811.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
