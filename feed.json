@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://iamhaus.micro.blog/2024/10/29/200006.html",
+				
+				"content_html": "<p>真是不是一家人，不进一家门。一家人吃饭的时候经常会谈起很多生活往事。时间和地点经常是一个喵点。从地点上来看，我们相聚近900多公里，这是非常远的距离。以至于自然环境都完全不同，我们认识的动植物都不太一样。从时间上来看，我上大学的时候，妻子才上小学，以至于很多往事对于相互都是可爱而新鲜的。缘分真是非常奇妙的。我们相识的日子也很有趣，双十一，11月11日，被称为光棍节的日子。</p>\n",
+				"content_text": "真是不是一家人，不进一家门。一家人吃饭的时候经常会谈起很多生活往事。时间和地点经常是一个喵点。从地点上来看，我们相聚近900多公里，这是非常远的距离。以至于自然环境都完全不同，我们认识的动植物都不太一样。从时间上来看，我上大学的时候，妻子才上小学，以至于很多往事对于相互都是可爱而新鲜的。缘分真是非常奇妙的。我们相识的日子也很有趣，双十一，11月11日，被称为光棍节的日子。\n",
+				"date_published": "2024-10-29T20:00:06+08:00",
+				"url": "https://iam.haus/2024/10/29/200006.html",
+				"tags": ["Message"]
+			},
+			{
+				"id": "http://iamhaus.micro.blog/2024/10/29/171456.html",
+				
+				"content_html": "<p>万圣节。</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "万圣节。\n\n<img src=\"uploads/2024/e18ddcc523.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2024/072557e8b5.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2024/6e36c99471.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2024/e8bed73ba3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-10-29T17:14:56+08:00",
+				"url": "https://iam.haus/2024/10/29/171456.html"
+			},
+			{
+				"id": "http://iamhaus.micro.blog/2024/10/27/184819.html",
+				
+				"content_html": "<p>学习不是最后才发生的，而是先发生的。</p>\n",
+				"content_text": "学习不是最后才发生的，而是先发生的。\r\n\r\n\r\n\r\n",
+				"date_published": "2024-10-27T18:48:19+08:00",
+				"url": "https://iam.haus/2024/10/27/184819.html",
+				"tags": ["Message"]
+			},
+			{
 				"id": "http://iamhaus.micro.blog/2024/10/24/173625.html",
 				
 				"content_html": "<p>今天1024，被定义为程序员的节日。</p>\n",
@@ -28,7 +54,7 @@
 				"id": "http://iamhaus.micro.blog/2024/10/23/182101.html",
 				
 				"content_html": "<p>查询了一下最近6个月手机流量的使用情况。</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "查询了一下最近6个月手机流量的使用情况。\n\n<img src=\"uploads/2024/8858cdc945.jpg\" width=\"530\" height=\"600\" alt=\"\">\n",
+				"content_text": "查询了一下最近6个月手机流量的使用情况。\n\n<img src=\"https://cdn.uploads.micro.blog/107357/2024/8858cdc945.jpg\" width=\"530\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-10-23T18:21:01+08:00",
 				"url": "https://iam.haus/2024/10/23/182101.html"
 			},
